@@ -1,5 +1,4 @@
 
-```markdown
 # Jewelry Product List
 
 ## Overview
