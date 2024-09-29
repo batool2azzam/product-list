@@ -126,3 +126,20 @@ h1 {
     opacity: 1;
   }
 }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .filter-button {
+    width: 100%;
+    margin: 5px 0;
+  }
+
+  .product-display {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .product-item {
+    width: 90%;
+  }
+}
